@@ -5,4 +5,5 @@ confilct in file2 on dark-mode
 added fourth line in dark mode branch.
 
 added another line in file2 in master.
+added 8th line.
 
