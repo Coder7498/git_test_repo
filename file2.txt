@@ -1,1 +1,2 @@
-This is second file in repository 
+This is second file in repository.
+Modified content of file 2.
