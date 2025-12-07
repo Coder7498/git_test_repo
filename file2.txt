@@ -2,4 +2,5 @@ This is second file in repository.
 Modified content of file 2.
 
 confilct in file2 on dark-mode
+added fourth line in dark mode branch.
 
