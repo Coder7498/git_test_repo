@@ -1,0 +1,2 @@
+Wrote line 1 in dark file.
+added line 2 in dark file.
