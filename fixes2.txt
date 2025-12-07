@@ -1,0 +1,1 @@
+This is new bug fixed with file2.
